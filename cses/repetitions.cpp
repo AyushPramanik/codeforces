@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// CSES Repetitions
+// CSES #3 - Repetitions
 
 int main() {
     string s;

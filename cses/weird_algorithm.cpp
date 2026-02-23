@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// CSES #1 - Weird Algorithm
+
 int main() {
     long long n;
     cin >> n;
