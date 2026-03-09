@@ -12,5 +12,8 @@ int main() {
             letters.insert(ch);
         }
     }
+
+    cout << letters.size() << endl;
+
     return 0;
 }
